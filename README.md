@@ -1,1 +1,1 @@
-**[点击这里查看演示页面 →](https://github.com/shaojiaxue/xiujuemoxing.github.io/blob/main/three_level_intelligent.html)**
+**[AI的三重进化：从本能到智能 →](https://shaojiaxue.github.io/xiujuemoxing.github.io/three_level_intelligent)**
